@@ -29,6 +29,12 @@ body{
 .img-container{
     margin-bottom: 1rem;
 }
+<<<<<<< HEAD
+=======
+.img-container:hover{
+    opacity: 0.3;
+}
+>>>>>>> master
 img{
     max-width: 100%;
     border-radius: 0.5rem;
@@ -40,6 +46,12 @@ h1{
     color: #fff;
     margin-bottom: 1rem ;
 }
+<<<<<<< HEAD
+=======
+h1:hover{
+color: hsl(178, 100%, 50%);
+}
+>>>>>>> master
 p{
     color: hsl(215, 51%, 70%);
     margin-bottom: 1rem;
@@ -105,6 +117,12 @@ hr{
 .name-1{
     color: #fff;
 }
+<<<<<<< HEAD
+=======
+.name-1:hover{
+    color: hsl(178, 100%, 50%);
+}
+>>>>>>> master
 .para-2{
     padding-top: 1rem;
 }
@@ -120,4 +138,8 @@ hr{
    .icon-container1{
     margin-right: 2.5rem;
    } 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master
